@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is Gosala Pradeep pushing code from from Jenkins Pipeline to React App.
+          This is Gosala Pradeep pushing code from from Jenkins Pipeline to React App & .
         </p>
         <a
           className="App-link"
