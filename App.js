@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is Gosala Pradeep pushing the code from the repo to react app.
+          This is Gosala Pradeep pushing the code from the repo to react application using jenkins application.
             .
         </p>
         <a
